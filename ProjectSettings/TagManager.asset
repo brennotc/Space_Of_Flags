@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - First Color
+  - Second Color
+  - Third Color
+  - Empty Flag
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Empty Flag
+    uniqueID: 409555277
+    locked: 0
+  - name: First Color
+    uniqueID: 1982349213
+    locked: 0
+  - name: Second Color
+    uniqueID: 40523259
+    locked: 0
+  - name: Third Color
+    uniqueID: 1500254625
+    locked: 0
+  - name: UI
+    uniqueID: 1311599691
+    locked: 0
+  - name: Light
+    uniqueID: 326631077
+    locked: 0
